@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sunruoxu/CLionProjects/ChatServer/ThreadPool.c
+stdio.h
+-
+stdbool.h
+-
+ThreadPool.h
+/home/sunruoxu/CLionProjects/ChatServer/ThreadPool.h
+pthread.h
+-
+malloc.h
+-
+
+/home/sunruoxu/CLionProjects/ChatServer/ThreadPool.h
+sys/types.h
+-
+stdbool.h
+-
+
+/home/sunruoxu/CLionProjects/ChatServer/main.c
+stdio.h
+-
+ThreadPool.h
+/home/sunruoxu/CLionProjects/ChatServer/ThreadPool.h
+

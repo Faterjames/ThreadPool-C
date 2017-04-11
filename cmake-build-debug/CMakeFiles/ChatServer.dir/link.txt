@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/ChatServer.dir/main.c.o CMakeFiles/ChatServer.dir/ThreadPool.c.o  -o ChatServer 
